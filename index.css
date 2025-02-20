@@ -1,0 +1,23 @@
+
+html{
+    background-color: rgb(158, 156, 156);
+}
+body{
+    background-color:aquamarine;
+    width: 80%;
+    margin: 10% auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+#quote{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -65px;
+    left: 550px;
+}
+h1{ 
+    color:rgb(0, 0, 0);
+}
